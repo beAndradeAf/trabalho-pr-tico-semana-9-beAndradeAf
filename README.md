@@ -13,7 +13,7 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 - Matricula: 908610
 
 ## Print do console [CONSOLE]
-![print console](img\console.png)
+![print console](img/console.png)
 
-## Print do página [CARDS]
-![print cards](img\cards.png)
+## Print dos cards [CARDS]
+![print cards](img/cards.png)
